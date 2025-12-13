@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "COMPASS",
+  "base_artist": "DOLLCHESTRA",
+  "createdAt": "2025-12-13T02:56:24.518503Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moral Compass",
+      "artist": "The Proclaimers",
+      "has_synced": false,
+      "path": "select/01_Moral_Compass_The_Proclaimers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Compass",
+      "artist": "Jamie Lidell",
+      "has_synced": false,
+      "path": "select/02_Compass_Jamie_Lidell.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Compass",
+      "artist": "Zella Day",
+      "has_synced": true,
+      "path": "select/03_Compass_Zella_Day.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Compass (Bonus Track) [feat. Merethe Soltvedt]",
+      "artist": "Two Steps from Hell, Thomas Bergersen & Merethe Soltvedt",
+      "has_synced": true,
+      "path": "select/04_Compass_(Bonus_Track)_[feat._Merethe_Soltvedt]_Two_Steps_from_Hell,_Thomas_Bergersen_&_Merethe_Soltvedt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Compass (Bonus Track)",
+      "artist": "Two Steps from Hell/Thomas Bergersen/Merethe Soltvedt",
+      "has_synced": true,
+      "path": "select/05_Compass_(Bonus_Track)_Two_Steps_from_Hell_Thomas_Bergersen_Merethe_Soltvedt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Compass",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/06_Compass_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Compass",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/07_Compass_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Compass",
+      "artist": "Crosby, Stills, Nash & Young",
+      "has_synced": false,
+      "path": "select/08_Compass_Crosby,_Stills,_Nash_&_Young.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Compass",
+      "artist": "Two Steps from Hell feat. Merethe Soltvedt",
+      "has_synced": true,
+      "path": "select/09_Compass_Two_Steps_from_Hell_feat._Merethe_Soltvedt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Compass",
+      "artist": "Two Steps from Hell, Merethe Soltvedt",
+      "has_synced": true,
+      "path": "select/10_Compass_Two_Steps_from_Hell,_Merethe_Soltvedt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Compass",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/11_Compass_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moral Compass",
+      "artist": "We Were Promised Jetpacks",
+      "has_synced": true,
+      "path": "select/12_Moral_Compass_We_Were_Promised_Jetpacks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "COMPASS",
+      "artist": "DOLLCHESTRA",
+      "has_synced": false,
+      "path": "select/pl_01_COMPASS_DOLLCHESTRA.txt"
+    }
+  ]
+}
